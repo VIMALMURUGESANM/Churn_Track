@@ -1,7 +1,7 @@
 <div align="right">
   
-[1]: https://github.com/VIGNESH-2737/
-[2]: https://www.linkedin.com/in/vignesh-d-12a24bb6/
+[1]: https://github.com/VIMALMURUGESANM
+[2]: www.linkedin.com/in/vimal-murugesan-329976211
 
 
 
@@ -157,17 +157,11 @@ We could use Hyperparamete Tuning or Feature enginnering methods to improve the 
 
 ### Feedback
 
-If you have any feedback, please reach out at vigneshveccampus@gmail.com
+If you have any feedback, please reach out at vimalmurugesan.edu@gmail.com@gmail.com
 
 
 
 ### 🚀 About Me
-#### Hi, I'm VIGNESH! 👋
-I am an AI Enthusiast and  Data science & ML practitioner
-
-
-
-
-
-
-
+#### Hi, Myself Vimal.M! 👋
+I am a Data science & ML practitioner
+Glad to see ya :)
